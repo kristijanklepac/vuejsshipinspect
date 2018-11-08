@@ -2,7 +2,7 @@
 
 > A Vue.js project
 
-This is my personal starting point for frontend app build with vue.js, vuetify (Material UI) and vuex for Ships Inspections and Logistic company from Rijeka, Croatia. Backend part is in another repo ( dotnetshipinspect ).
+This is my personal starting point for frontend app build with vue.js, vuetify (Material UI) and vuex for Ships Inspections and Logistic company from Rijeka, Croatia. Backend part is in another repo ( dotnetshipinspect ). Not for use at this point.
 
 Test link: http://vuetify-shipinspect-chrisvz.s3-website.eu-central-1.amazonaws.com
 
